@@ -8,7 +8,7 @@ I solve **2 LeetCode problems daily** and upload them here to sharpen my problem
 ## 🚀 About This Repository
 
 - **Daily LeetCode Challenge:** 2 problems solved every day 💻  
-- **Languages Used:** Java, JavaScript, C, C++ 🛠️  
+- **Languages Used:** C C++ Java JavaScript Sql Shell 🛠️  
 - **Topics Covered:** Arrays, Strings, Linked List, Trees, Graphs, Dynamic Programming, and more! 🌳
 
 ---
@@ -25,21 +25,4 @@ I solve **2 LeetCode problems daily** and upload them here to sharpen my problem
 
 ![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=shriram7057&theme=dark)
 
-> *Pro Tip:* Keep your LeetCode username updated to reflect live stats.
-
 ---
-
-## 📁 Folder Structure
-
-```text
-LeetCode-Daily/
-│
-├── 2025-10/
-│   ├── 18/
-│   │   ├── Problem1.java
-│   │   └── Problem2.js
-│   └── 19/
-│       ├── Problem1.java
-│       └── Problem2.js
-│
-└── README.md
