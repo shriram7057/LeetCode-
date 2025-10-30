@@ -26,3 +26,19 @@ I solve **2 LeetCode problems daily** and upload them here to sharpen my problem
 ![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=shriram7057&theme=dark)
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3616-make-array-elements-equal-to-zero](https://github.com/shriram7057/LeetCode-/tree/master/3616-make-array-elements-equal-to-zero) |
+## Simulation
+|  |
+| ------- |
+| [3616-make-array-elements-equal-to-zero](https://github.com/shriram7057/LeetCode-/tree/master/3616-make-array-elements-equal-to-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [3616-make-array-elements-equal-to-zero](https://github.com/shriram7057/LeetCode-/tree/master/3616-make-array-elements-equal-to-zero) |
+<!---LeetCode Topics End-->
