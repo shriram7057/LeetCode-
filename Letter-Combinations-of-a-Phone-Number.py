@@ -15,7 +15,6 @@ class Solution(object):
             if i == len(digits):
                 result.append(path)
                 return
-            
             for ch in phone[digits[i]]:
                 backtrack(i + 1, path + ch)
 
