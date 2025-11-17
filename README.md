@@ -10,15 +10,15 @@ I solve **2 LeetCode problems every day** to master **Data Structures & Algorith
 A showcase of major milestones achieved on LeetCode 🎯🔥  
 
 <p align="center">
-  <img src="./assets/LeetCode Top 100 Liked Badge.png" width="220"/>
-  <img src="./assets/LeetCode SQL 50 Badge.png" width="220"/>
-  <img src="./assets/LeetCode 75 Badge.png" width="220"/>
+  <img src="https://raw.githubusercontent.com/shriram7057/LeetCode-POTD-Mastery/master/assets/LeetCode%20Top%20100%20Liked%20Badge.png" width="220"/>
+  <img src="https://raw.githubusercontent.com/shriram7057/LeetCode-POTD-Mastery/master/assets/LeetCode%20SQL%2050%20Badge.png" width="220"/>
+  <img src="https://raw.githubusercontent.com/shriram7057/LeetCode-POTD-Mastery/master/assets/LeetCode%2075%20Badge.png" width="220"/>
 </p>
 
 <p align="center">
-  <img src="./assets/LeetCode Introduction to Pandas.png" width="220"/>
-  <img src="./assets/LeetCode Algorithm Deconstructor Badge!.png" width="220"/>
-  <img src="./assets/LeetCode Data Navigator Badge 3.png" width="220"/>
+  <img src="https://raw.githubusercontent.com/shriram7057/LeetCode-POTD-Mastery/master/assets/LeetCode%20Introduction%20to%20Pandas.png" width="220"/>
+  <img src="https://raw.githubusercontent.com/shriram7057/LeetCode-POTD-Mastery/master/assets/LeetCode%20Algorithm%20Deconstructor%20Badge!.png" width="220"/>
+  <img src="https://raw.githubusercontent.com/shriram7057/LeetCode-POTD-Mastery/master/assets/LeetCode%20Data%20Navigator%20Badge%203.png" width="220"/>
 </p>
 
 ---
@@ -26,12 +26,12 @@ A showcase of major milestones achieved on LeetCode 🎯🔥
 # 🎠 LeetCode Badge Carousel (Swipe / Scroll)
 
 <p align="center" style="overflow-x: auto; white-space: nowrap;">
-  <img src="./assets/LeetCode Top 100 Liked Badge.png" width="260"/>
-  <img src="./assets/LeetCode SQL 50 Badge.png" width="260"/>
-  <img src="./assets/LeetCode 75 Badge.png" width="260"/>
-  <img src="./assets/LeetCode Introduction to Pandas.png" width="260"/>
-  <img src="./assets/LeetCode Algorithm Deconstructor Badge!.png" width="260"/>
-  <img src="./assets/LeetCode Data Navigator Badge 3.png" width="260"/>
+  <img src="https://raw.githubusercontent.com/shriram7057/LeetCode-POTD-Mastery/master/assets/LeetCode%20Top%20100%20Liked%20Badge.png" width="260"/>
+  <img src="https://raw.githubusercontent.com/shriram7057/LeetCode-POTD-Mastery/master/assets/LeetCode%20SQL%2050%20Badge.png" width="260"/>
+  <img src="https://raw.githubusercontent.com/shriram7057/LeetCode-POTD-Mastery/master/assets/LeetCode%2075%20Badge.png" width="260"/>
+  <img src="https://raw.githubusercontent.com/shriram7057/LeetCode-POTD-Mastery/master/assets/LeetCode%20Introduction%20to%20Pandas.png" width="260"/>
+  <img src="https://raw.githubusercontent.com/shriram7057/LeetCode-POTD-Mastery/master/assets/LeetCode%20Algorithm%20Deconstructor%20Badge!.png" width="260"/>
+  <img src="https://raw.githubusercontent.com/shriram7057/LeetCode-POTD-Mastery/master/assets/LeetCode%20Data%20Navigator%20Badge%203.png" width="260"/>
 </p>
 
 ---
@@ -40,33 +40,33 @@ A showcase of major milestones achieved on LeetCode 🎯🔥
 
 <table align="center">
 <tr>
-  <td><img src="./assets/LeetCode Top 100 Liked Badge.png" width="200"/></td>
-  <td><img src="./assets/LeetCode SQL 50 Badge.png" width="200"/></td>
-  <td><img src="./assets/LeetCode 75 Badge.png" width="200"/></td>
+  <td><img src="https://raw.githubusercontent.com/shriram7057/LeetCode-POTD-Mastery/master/assets/LeetCode%20Top%20100%20Liked%20Badge.png" width="200"/></td>
+  <td><img src="https://raw.githubusercontent.com/shriram7057/LeetCode-POTD-Mastery/master/assets/LeetCode%20SQL%2050%20Badge.png" width="200"/></td>
+  <td><img src="https://raw.githubusercontent.com/shriram7057/LeetCode-POTD-Mastery/master/assets/LeetCode%2075%20Badge.png" width="200"/></td>
 </tr>
 <tr>
-  <td><img src="./assets/LeetCode Introduction to Pandas.png" width="200"/></td>
-  <td><img src="./assets/LeetCode Algorithm Deconstructor Badge!.png" width="200"/></td>
-  <td><img src="./assets/LeetCode Data Navigator Badge 3.png" width="200"/></td>
+  <td><img src="https://raw.githubusercontent.com/shriram7057/LeetCode-POTD-Mastery/master/assets/LeetCode%20Introduction%20to%20Pandas.png" width="200"/></td>
+  <td><img src="https://raw.githubusercontent.com/shriram7057/LeetCode-POTD-Mastery/master/assets/LeetCode%20Algorithm%20Deconstructor%20Badge!.png" width="200"/></td>
+  <td><img src="https://raw.githubusercontent.com/shriram7057/LeetCode-POTD-Mastery/master/assets/LeetCode%20Data%20Navigator%20Badge%203.png" width="200"/></td>
 </tr>
 </table>
 
 ---
 
-# 🧑‍💻 Developer Medal Shelf (Showcase)
+# 🧑‍💻 Developer Medal Shelf
 
 <p align="center">
-  <img src="./assets/LeetCode Top 100 Liked Badge.png" width="150"/>
-  <img src="./assets/LeetCode SQL 50 Badge.png" width="150"/>
-  <img src="./assets/LeetCode 75 Badge.png" width="150"/>
-  <img src="./assets/LeetCode Introduction to Pandas.png" width="150"/>
-  <img src="./assets/LeetCode Algorithm Deconstructor Badge!.png" width="150"/>
-  <img src="./assets/LeetCode Data Navigator Badge 3.png" width="150"/>
+  <img src="https://raw.githubusercontent.com/shriram7057/LeetCode-POTD-Mastery/master/assets/LeetCode%20Top%20100%20Liked%20Badge.png" width="150"/>
+  <img src="https://raw.githubusercontent.com/shriram7057/LeetCode-POTD-Mastery/master/assets/LeetCode%20SQL%2050%20Badge.png" width="150"/>
+  <img src="https://raw.githubusercontent.com/shriram7057/LeetCode-POTD-Mastery/master/assets/LeetCode%2075%20Badge.png" width="150"/>
+  <img src="https://raw.githubusercontent.com/shriram7057/LeetCode-POTD-Mastery/master/assets/LeetCode%20Introduction%20to%20Pandas.png" width="150"/>
+  <img src="https://raw.githubusercontent.com/shriram7057/LeetCode-POTD-Mastery/master/assets/LeetCode%20Algorithm%20Deconstructor%20Badge!.png" width="150"/>
+  <img src="https://raw.githubusercontent.com/shriram7057/LeetCode-POTD-Mastery/master/assets/LeetCode%20Data%20Navigator%20Badge%203.png" width="150"/>
 </p>
 
 ---
 
-# 🏅 Animated LeetCode Rank & Stats
+# 🏅 LeetCode Rank & Stats (Auto-Updating)
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/shriram-01?theme=dark&font=Roboto&ext=heatmap" width="450"/>
@@ -74,7 +74,7 @@ A showcase of major milestones achieved on LeetCode 🎯🔥
 
 ---
 
-# 📊 LeetCode Progress Bars (Update Anytime)
+# 📊 LeetCode Progress Bars
 
 <p align="center">
   <img src="https://progress-bar.dev/300/?title=Easy&width=300&color=00FF00&suffix=%20Solved" />
@@ -108,17 +108,12 @@ A showcase of major milestones achieved on LeetCode 🎯🔥
 
 ---
 
-# 🔥 Problem Solving Heatmap (ASCII Style)
+# 🔥 ASCII Problem Solving Heatmap
 
-🟩 Today solved  
-🟨 Slight delay  
-🟧 Medium solved  
-🟦 Hard solved  
-⬛ No attempt  
 
 ---
 
-# 🏅 Achievements (Auto-Expand)
+# 🏅 Achievements
 
 - ⭐ Top 100 Liked Solutions Badge  
 - 🧠 LeetCode 75 Badge  
@@ -163,4 +158,3 @@ A showcase of major milestones achieved on LeetCode 🎯🔥
 ---
 
 ⭐ **If you find this repository helpful, consider giving it a star!**
-
