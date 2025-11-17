@@ -1,8 +1,11 @@
 # 👋 Hi, I'm **Shriram Lahane**
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="220" />
+</p>
 
-Welcome to my **LeetCode Solutions Repository**! 🎯  
+<h1 align="center">Welcome to my **LeetCode Solutions Repository**! 🎯  
 I solve **2 LeetCode problems every day** to master **Data Structures & Algorithms**.
-
+</h1>
 ---
 
 ## 🚀 About This Repository
