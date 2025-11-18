@@ -1,6 +1,6 @@
 class Solution(object):
     def merge(self, intervals):
-        intervals.sort()
+        intervals.sort(key=lambda x: x[0])
         res = []
         for s, e in intervals:
             if not res or s > res[-1][1]:
