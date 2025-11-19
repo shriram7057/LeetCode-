@@ -4,34 +4,28 @@ class Solution(object):
 
         graph = defaultdict(list)
 
-        # Build graph: a/b = v  →  a->b (v),  b->a (1/v)
-        for (a, b), val in zip(equations, values):
-            graph[a].append((b, val))
-            graph[b].append((a, 1.0 / val))
+        for (a, b), v in zip(equations, values):
+            graph[a].append((b, v))
+            graph[b].append((a, 1.0 / v))
 
-        # Function to evaluate a query using BFS
         def bfs(start, end):
             if start not in graph or end not in graph:
                 return -1.0
             if start == end:
                 return 1.0
 
-            visited = set()
-            q = deque([(start, 1.0)])  # (node, product so far)
+            q = deque([(start, 1.0)])
+            visited = set([start])
 
             while q:
-                node, prod = q.popleft()
-
+                node, val = q.popleft()
                 if node == end:
-                    return prod
-
-                visited.add(node)
-
-                for nei, weight in graph[node]:
+                    return val
+                for nei, w in graph[node]:
                     if nei not in visited:
-                        q.append((nei, prod * weight))
+                        visited.add(nei)
+                        q.append((nei, val * w))
 
             return -1.0
 
-        # Process each query
         return [bfs(a, b) for a, b in queries]
