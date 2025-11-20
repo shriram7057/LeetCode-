@@ -3,13 +3,12 @@ import heapq
 class MedianFinder(object):
 
     def __init__(self):
-        self.small = []   # max heap (store negatives)
-        self.large = []   # min heap
+        self.small = []
+        self.large = []
 
     def addNum(self, num):
         heapq.heappush(self.small, -num)
         heapq.heappush(self.large, -heapq.heappop(self.small))
-        
         if len(self.large) > len(self.small):
             heapq.heappush(self.small, -heapq.heappop(self.large))
 
