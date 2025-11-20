@@ -1,15 +1,15 @@
-class Solution(object):
+class Solution:
     def generateParenthesis(self, n):
         res = []
-        
-        def backtrack(openN, closeN, path):
-            if openN == closeN == n:
-                res.append(path)
+
+        def backtrack(s, open_p, close_p):
+            if len(s) == 2 * n:
+                res.append(s)
                 return
-            if openN < n:
-                backtrack(openN + 1, closeN, path + "(")
-            if closeN < openN:
-                backtrack(openN, closeN + 1, path + ")")
-        
-        backtrack(0, 0, "")
+            if open_p < n:
+                backtrack(s + "(", open_p + 1, close_p)
+            if close_p < open_p:
+                backtrack(s + ")", open_p, close_p + 1)
+
+        backtrack("", 0, 0)
         return res
