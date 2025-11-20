@@ -1,4 +1,4 @@
-class Solution(object):
+class Solution:
     def singleNumber(self, nums):
         x = 0
         for n in nums:
