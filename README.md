@@ -52,9 +52,6 @@ I solve 2 LeetCode problems every day to master Data Structures & Algorithms.
 - 🔍 Algorithm Deconstructor & more  
 ---
 
-## 📁 Repository Structure
-
-
 ---
 
 ## 🔗 Connect With Me
