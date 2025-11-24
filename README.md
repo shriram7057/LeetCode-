@@ -7,7 +7,6 @@
 I solve 2 LeetCode problems every day to master Data Structures & Algorithms.
 </h1>
 ---
-
 ## 🚀 About This Repository
 
 - 📅 **Daily LeetCode Challenge:** 2 problems / day  
@@ -23,18 +22,13 @@ I solve 2 LeetCode problems every day to master Data Structures & Algorithms.
 </p>
 
 - 📚 **Topics Covered:** Arrays, Strings, Hashing, Linked Lists, Trees, Graphs, Dynamic Programming, Backtracking, Math, Stack, Queue & more.
-
 ---
-
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shriram7057&show_icons=true&theme=radical" height="160" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriram7057&layout=compact&theme=radical" height="160" alt="Top Languages"/>
 </p>
-
 ---
-
 ## 🔥 LeetCode Streak Calendar
 
 <p align="center">
@@ -51,9 +45,6 @@ I solve 2 LeetCode problems every day to master Data Structures & Algorithms.
 - 📊 Pandas / Data badges  
 - 🔍 Algorithm Deconstructor & more  
 ---
-
----
-
 ## 🔗 Connect With Me
 
 <p align="center">
