@@ -4,13 +4,13 @@
 </p>
 
 <h1 align="center">Welcome to my LeetCode Solutions Repository! 🎯  
-I solve 2 LeetCode problems every day to master Data Structures & Algorithms.
+I solve LeetCode problems every day to master Data Structures & Algorithms.
 </h1>
 ---
 ## 🚀 About This Repository
 
 - 📅 **Daily LeetCode Challenge:** 2 problems / day  
-- 🛠️ **Languages Used:**  
+-  **Languages Used:**  
 
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -22,20 +22,6 @@ I solve 2 LeetCode problems every day to master Data Structures & Algorithms.
 </p>
 
 - 📚 **Topics Covered:** Arrays, Strings, Hashing, Linked Lists, Trees, Graphs, Dynamic Programming, Backtracking, Math, Stack, Queue & more.
----
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shriram7057&show_icons=true&theme=radical" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriram7057&layout=compact&theme=radical" height="160" alt="Top Languages"/>
-</p>
----
-## 🔥 LeetCode Streak Calendar
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shriram7057&theme=algolia&mode=weekly&hide_border=true" alt="Streak Calendar" />
-</p>
-
----
 
 ## 🏅 Achievements
 
@@ -56,4 +42,3 @@ I solve 2 LeetCode problems every day to master Data Structures & Algorithms.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lahaneshriram2@gmail.com)
 
 </div>
----
