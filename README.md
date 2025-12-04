@@ -7,7 +7,7 @@
 I solve LeetCode problems every day to master Data Structures & Algorithms.
 </h1>
 ---
-## 🚀 About This Repository
+About This Repository
 
 - 📅 **Daily LeetCode Challenge:** 2 problems / day  
 -  **Languages Used:**  
