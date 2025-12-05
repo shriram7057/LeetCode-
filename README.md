@@ -1,7 +1,11 @@
 # 👋 Hi, I'm Shriram Lahane
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="220" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="180" />
+  &nbsp;&nbsp;&nbsp;
+ <img src="https://github.com/shriram7057/shriram7057/blob/main/LeetCode%20Daily%20coin.gif?raw=true" width="180" />
 </p>
+
+
 
 <h1 align="center">Welcome to my LeetCode Solutions Repository! 🎯  
 I solve LeetCode problems every day to master Data Structures & Algorithms.
